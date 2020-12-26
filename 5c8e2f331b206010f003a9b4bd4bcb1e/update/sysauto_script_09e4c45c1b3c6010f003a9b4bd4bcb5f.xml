@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysauto_script">
+    <sysauto_script action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <business_calendar/>
+        <condition/>
+        <conditional>false</conditional>
+        <entered_time>1970-01-01 00:00:00</entered_time>
+        <name>sseTest</name>
+        <offset/>
+        <offset_type>0</offset_type>
+        <run_as display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</run_as>
+        <run_as_tz/>
+        <run_dayofmonth>1</run_dayofmonth>
+        <run_dayofweek>1</run_dayofweek>
+        <run_period/>
+        <run_start>2020-11-26 05:07:42</run_start>
+        <run_time>1970-01-01 08:00:00</run_time>
+        <run_type>daily</run_type>
+        <script><![CDATA[gs.info("sseTest successed!");]]></script>
+        <sys_class_name>sysauto_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-26 05:10:16</sys_created_on>
+        <sys_id>09e4c45c1b3c6010f003a9b4bd4bcb5f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sseTest</sys_name>
+        <sys_package display_value="Application File" source="x_545777_appflie">5c8e2f331b206010f003a9b4bd4bcb1e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Application File">5c8e2f331b206010f003a9b4bd4bcb1e</sys_scope>
+        <sys_update_name>sysauto_script_09e4c45c1b3c6010f003a9b4bd4bcb5f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-26 05:10:16</sys_updated_on>
+        <time_zone/>
+        <upgrade_safe>false</upgrade_safe>
+    </sysauto_script>
+</record_update>

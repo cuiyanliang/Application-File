@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="ecc_agent_jar">
+    <ecc_agent_jar action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>postgresql-42.2.8.jar</description>
+        <directory>false</directory>
+        <name>Postgresql</name>
+        <parent/>
+        <source/>
+        <sys_class_name>ecc_agent_jar</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-26 06:05:57</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f302dc981b7c6010f003a9b4bd4bcbee</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Postgresql</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Application File" source="x_545777_appflie">5c8e2f331b206010f003a9b4bd4bcb1e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Application File">5c8e2f331b206010f003a9b4bd4bcb1e</sys_scope>
+        <sys_update_name>ecc_agent_jar_f302dc981b7c6010f003a9b4bd4bcbee</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-26 06:13:43</sys_updated_on>
+        <version>42.2.8</version>
+    </ecc_agent_jar>
+</record_update>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_estimate_req_status" label="ESTIMATE_REQ_STATUS" language="en" table="x_545777_appflie_data_source_jdbc">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_estimate_req_status</element>
+            <help/>
+            <hint/>
+            <label>ESTIMATE_REQ_STATUS</label>
+            <language>en</language>
+            <name>x_545777_appflie_data_source_jdbc</name>
+            <plural>ESTIMATE_REQ_STATUSs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-26 05:44:28</sys_created_on>
+            <sys_id>6b4d4cd41b7c6010f003a9b4bd4bcb86</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>ESTIMATE_REQ_STATUS</sys_name>
+            <sys_package display_value="Application File" source="x_545777_appflie">5c8e2f331b206010f003a9b4bd4bcb1e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Application File">5c8e2f331b206010f003a9b4bd4bcb1e</sys_scope>
+            <sys_update_name>sys_documentation_x_545777_appflie_data_source_jdbc_u_estimate_req_status_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-26 05:44:28</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_style">
+    <sys_ui_style action="INSERT_OR_UPDATE">
+        <alt/>
+        <element>number</element>
+        <name>x_545777_appflie_development</name>
+        <style>background-color:red</style>
+        <sys_class_name>sys_ui_style</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-26 07:19:27</sys_created_on>
+        <sys_id>2d92e45c1bbc6010f003a9b4bd4bcbb3</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>x_545777_appflie_development</sys_name>
+        <sys_package display_value="Application File" source="x_545777_appflie">5c8e2f331b206010f003a9b4bd4bcb1e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Application File">5c8e2f331b206010f003a9b4bd4bcb1e</sys_scope>
+        <sys_update_name>sys_ui_style_2d92e45c1bbc6010f003a9b4bd4bcbb3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-26 07:28:24</sys_updated_on>
+        <value>javascript:current.u_boolean_10</value>
+    </sys_ui_style>
+    <sys_translated_text action="delete_multiple" query="documentkey=2d92e45c1bbc6010f003a9b4bd4bcbb3"/>
+</record_update>

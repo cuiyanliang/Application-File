@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_545777_appflie_development">x_545777_appflie_development</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>DEV</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-25 08:52:20</sys_created_on>
+        <sys_id>f5beef331b206010f003a9b4bd4bcb6a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DEV</sys_name>
+        <sys_package display_value="Application File" source="x_545777_appflie">5c8e2f331b206010f003a9b4bd4bcb1e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Application File">5c8e2f331b206010f003a9b4bd4bcb1e</sys_scope>
+        <sys_update_name>sys_number_f5beef331b206010f003a9b4bd4bcb6a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-25 08:52:20</sys_updated_on>
+    </sys_number>
+</record_update>

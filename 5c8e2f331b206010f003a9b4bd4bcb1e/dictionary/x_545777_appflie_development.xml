@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Development" max_length="40" name="x_545777_appflie_development" sizeclass="21" type="collection">
+        <element label="Id" max_length="40" name="id" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Music" max_length="40" name="u_audio_1" type="audio"/>
+        <element label="Urgent" max_length="40" name="u_boolean_10" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Start" max_length="40" name="u_calendar_date_time_2" type="calendar_date_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Status" max_length="40" name="u_choice_3" type="string">
+            <choice>
+                <element inactive="true" inactive_on_update="true" label="Choice 1" sequence="0" value="Choice 1"/>
+                <element inactive_on_update="false" label="on" sequence="0" value="on"/>
+                <element inactive="true" inactive_on_update="true" label="Choice 2" sequence="1" value="Choice 2"/>
+                <element inactive_on_update="false" label="off" sequence="1" value="off"/>
+                <element inactive="true" inactive_on_update="true" label="Choice 3" sequence="2" value="Choice 3"/>
+            </choice>
+        </element>
+        <element label="Field" max_length="80" name="u_field_name_6" type="field_name"/>
+        <element label="Attachment" max_length="40" name="u_file_attachment_4" type="file_attachment"/>
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="Users" max_length="1024" name="u_glide_list_7" reference="sys_user" type="glide_list"/>
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="Group" max_length="1024" name="u_glide_list_9" reference="sys_user_group" type="glide_list"/>
+        <element label="Quantity" max_length="40" name="u_integer_1" type="integer"/>
+        <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="Unit Price" max_length="20" name="u_price_8" type="price"/>
+        <element attributes="encode_utf8=false" label="Reference User" max_length="32" name="u_reference_14" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Address" max_length="40" name="u_string_13" type="string"/>
+        <element attributes="base_start=true" label="Table" max_length="80" name="u_table_name_5" type="table_name"/>
+        <index name="index">
+            <element name="u_reference_14"/>
+        </index>
+    </element>
+</database>

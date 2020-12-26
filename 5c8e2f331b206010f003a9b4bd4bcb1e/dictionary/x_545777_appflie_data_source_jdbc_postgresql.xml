@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Data Source JDBC Postgresql" max_length="40" name="x_545777_appflie_data_source_jdbc_postgresql" sizeclass="0" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=gmn_idd" label="gmn_idd" max_length="40" name="u_gmn_idd" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=nyr_joh" label="nyr_joh" max_length="2147483647" name="u_nyr_joh" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ss_joh" label="ss_joh" max_length="128" name="u_ss_joh" type="string"/>
+        <element attributes="import_attribute_name=ss_ntj" label="ss_ntj" max_length="40" name="u_ss_ntj" type="datetime"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=tma_idd" label="tma_idd" max_length="40" name="u_tma_idd" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=user_idd" label="user_idd" max_length="40" name="u_user_idd" type="string"/>
+    </element>
+</database>
