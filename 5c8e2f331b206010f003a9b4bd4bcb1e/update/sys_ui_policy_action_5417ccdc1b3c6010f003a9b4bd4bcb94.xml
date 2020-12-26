@@ -17,7 +17,7 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-11-26 05:17:24</sys_updated_on>
         <table>x_545777_appflie_development</table>
-        <ui_policy display_value="upTest">49e60cdc1b3c6010f003a9b4bd4bcb0a</ui_policy>
+        <ui_policy display_value="upTestupTest">49e60cdc1b3c6010f003a9b4bd4bcb0a</ui_policy>
         <visible>false</visible>
     </sys_ui_policy_action>
 </record_update>
